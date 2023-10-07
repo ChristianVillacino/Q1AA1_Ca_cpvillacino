@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Work+Sans&display=swap');
+*{padding: 0px; margin: 0px}
+.navbar{
+    padding: 5px;
+    background-color: blanchedalmond;
+}
+.navbar img{
+    border: 1px solid white;
+    margin-left: 10vh;
+    border-radius: 25px;
+}
+.navbar .links{
+    padding: 5px;
+    margin: 5px;
+    float: right;
+    text-decoration: none;
+    border: 1px solid rgb(245, 191, 76);
+    color: black;
+    font-family: 'Work Sans', sans-serif;
+}
+.rounded{
+    border-radius: 3px;
+}
+.yellow{
+    background-color: rgb(245, 191, 76);
+}
+body {
+    background-image: url(q1aa1images/IMG_20231007_214635.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner{
+    padding: 5px;
+    padding-left: 75vh;
+    padding-top: 35vh;
+}
+.header{
+    font-family: 'DM Serif Display', serif;
+    color: gray;
+}
+.text{
+    font-family: 'Work Sans', sans-serif;
+    color: gray;
+}
+.l{
+    margin-top: 10px;
+}
+.link{
+    text-decoration: none;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: burlywood;
+    padding: 5px;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-left: 75vh;
+}
+.footer{
+    margin-top: 100vh;
+    padding: 20px;
+    background-color: blanchedalmond;
+}
+.footer .links2{
+    float: right;
+    border-radius: 20px;
+}
+.galhead{
+    font-family: 'DM Serif Display', serif;
+    margin: 30px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+.spacing{
+    text-align: center;
+    margin: 10px;
+}
